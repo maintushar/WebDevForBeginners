@@ -1,0 +1,6 @@
+#Ignore log files
+app.log
+#Ignore temporary files
+cache.temp
+#Ignore minified files
+script.min.js
